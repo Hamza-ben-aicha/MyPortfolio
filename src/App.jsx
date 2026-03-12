@@ -548,7 +548,7 @@ export default function App() {
             <div className="ar" />
             <div className="ari" />
             <img
-              src="/photo.png"
+              src="./photo.png"
               alt="Hamza Ben Aicha"
               style={{
                 position: "absolute",
